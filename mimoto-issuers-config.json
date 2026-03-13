@@ -69,7 +69,7 @@
       "protocol": "OpenId4VCI",
       "client_id": "${mimoto.oidc.mosipid.partner.clientid}",
       "client_alias": "mpartner-certify-oidc",
-      "wellknown_endpoint": "https://injicertify.southafrica.mosip.net/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "wellknown_endpoint": "http://inji-certify.inji-certify/v1/certify/issuance/.well-known/openid-credential-issuer",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "token_endpoint": "https://api.southafrica.mosip.net/v1/mimoto/get-token/Mosip",
       "authorization_audience": "https://${mosip.esignet.host}/v1/esignet/oauth/v2/token",
