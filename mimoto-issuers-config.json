@@ -3,7 +3,7 @@
     {
       "issuer_id": "Mosip",
       "credential_issuer": "Mosip",
-      "credential_issuer_host": "http://inji-certify.inji-certify",
+      "credential_issuer_host": "https://injicertify.southafrica.mosip.net",
       "credential_issuer_host_external": "https://injicertify.southafrica.mosip.net",
       "display": [
         {
