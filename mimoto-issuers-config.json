@@ -7,64 +7,14 @@
       "credential_issuer_host_external": "https://injicertify.southafrica.mosip.net",
       "display": [
         {
-          "name": "MosiLand National Identity Department",
+          "name": "South Africa Identity Department",
           "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "mosip-logo"
+            "url": "https://sa-pilot.github.io/inji-config/logo/Sa-Flag.png",
+            "alt_text": "SA-Flag logo"
           },
-          "title": "MosiLand National Identity Department",
-          "description": "Download MOSIP National / Foundational Identity Credential",
+          "title": "South Africa Identity Department",
+          "description": "Download Verifiable Digital Credential",
           "language": "en"
-        },
-        {
-          "name": "دائرة الهوية الوطنية",
-          "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "شعار موسيب"
-          },
-          "title": "دائرة الهوية الوطنية",
-          "description": "قم بتنزيل بيانات اعتماد الهوية الوطنية / التأسيسية MOSIP",
-          "language": "ar"
-        },
-        {
-          "name": "राष्ट्रीय पहचान विभाग",
-          "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "मोसिप लोगो"
-          },
-          "title": "राष्ट्रीय पहचान विभाग",
-          "description": "MOSIP नेशनल/फाउंडेशनल आइडेंटिटी क्रेडेंशियल डाउनलोड करेंं",
-          "language": "hi"
-        },
-        {
-          "name": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
-          "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "mosip ಲೋಗೋ"
-          },
-          "title": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
-          "description": "MOSIP ರಾಷ್ಟ್ರೀಯ / ಫೌಂಡೇಶನಲ್ ಐಡೆಂಟಿಟಿ ರುಜುವಾತು ಡೌನ್ಲೋಡ್ ಮಾಡಿ",
-          "language": "kn"
-        },
-        {
-          "name": "தேசிய அடையாளத் துறை",
-          "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "mosip லோகோ"
-          },
-          "title": "தேசிய அடையாளத் துறை",
-          "description": "MOSIP தேசிய / அடிப்படை அடையாளச் சான்றிதழைப் பதிவிறக்கவும்",
-          "language": "ta"
-        },
-        {
-          "name": "MosiLand National Identity Department",
-          "logo": {
-            "url": "https://mosip.github.io/inji-config/logos/mosipid-logo.png",
-            "alt_text": "logo ng mosip"
-          },
-          "title": "MosiLand National Identity Department",
-          "description": "I-download ang MOSIP National / Foundational Identity Credential",
-          "language": "fil"
         }
       ],
       "protocol": "OpenId4VCI",
