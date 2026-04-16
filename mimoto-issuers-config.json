@@ -3,8 +3,8 @@
     {
       "issuer_id": "Mosip",
       "credential_issuer": "Mosip",
-      "credential_issuer_host": "https://injicertify.southafrica.mosip.net",
-      "credential_issuer_host_external": "https://injicertify.southafrica.mosip.net",
+      "credential_issuer_host": "https://injicertify.sa-id.mosip.net",
+      "credential_issuer_host_external": "https://injicertify.sa-id.mosip.net",
       "display": [
         {
           "name": "South Africa Identity Department",
@@ -20,9 +20,9 @@
       "protocol": "OpenId4VCI",
       "client_id": "${mimoto.oidc.mosipid.partner.clientid}",
       "client_alias": "mpartner-mosip-certify-oidc",
-      "wellknown_endpoint": "https://injicertify.southafrica.mosip.net/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "wellknown_endpoint": "https://injicertify.sa-id.mosip.net/v1/certify/issuance/.well-known/openid-credential-issuer",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "token_endpoint": "https://api.southafrica.mosip.net/v1/mimoto/get-token/Mosip",
+      "token_endpoint": "https://api.sa-id.mosip.net/v1/mimoto/get-token/Mosip",
       "authorization_audience": "https://${mosip.esignet.host}/v1/esignet/oauth/v2/token",
       "proxy_token_endpoint": "https://${mosip.esignet.host}/v1/esignet/oauth/v2/token",
       "qr_code_type": "OnlineSharing",
